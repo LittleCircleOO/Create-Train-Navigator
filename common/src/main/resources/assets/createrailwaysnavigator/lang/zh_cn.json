@@ -124,7 +124,7 @@
     "gui.createrailwaysnavigator.route_overview.notification.train_canceled.title": "%s: 列车已停运",
     "gui.createrailwaysnavigator.route_overview.notification.train_canceled": "%s(开往%s)今日停运",
     "gui.createrailwaysnavigator.route_overview.notification.transfer.title": "即将换乘",
-    "gui.createrailwaysnavigator.route_overview.notification.transfer": "换乘%s(开往%s)位于站台:%s",
+    "gui.createrailwaysnavigator.route_overview.notification.transfer": "换乘%s(开往%s)",
     "gui.createrailwaysnavigator.route_overview.notification.transfer_with_platform": "换乘%s(开往%s)位于站台:%s",
     "gui.createrailwaysnavigator.route_overview.notification.connection_endangered.title": "您即将错过换乘路线!",
     "gui.createrailwaysnavigator.route_overview.notification.connection_endangered": "您可能无法到达%s(开往%s).",
